@@ -28,8 +28,16 @@ __Procedure__:
 6) Coherent demodulation (multiply by synchronized carrier)
 7) Low-pass filter to recover message
 
-   __Tabulation__:
+__Tabulation__:
 
-   __Output__:
 
-   __Result__:
+<img width="1280" height="816" alt="image" src="https://github.com/user-attachments/assets/b15ebf6d-4dc0-4c80-a93f-b992a2c45185" />
+
+
+__Output__:
+
+<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/a2041c1c-ae4a-4e04-aaa9-d5eb943f4058" />
+
+
+__Result__:
+Hence, a DSB-SC signal in Python (Google Colab) has been successfully executed.
